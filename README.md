@@ -3,10 +3,11 @@
 Bienvenido a la landing page para una galería de arte moderno, desarrollada con Vite, Sass y JavaScript.
 Este proyecto presenta una interfaz visualmente limpia, responsiva y optimizada, enfocada en la experiencia del usuario desde dispositivos móviles hacia arriba mediante la técnica de mobile first.
 
-![image](https://github.com/user-attachments/assets/38f22760-e824-4d5c-aaf5-513c85327533)
-![image](https://github.com/user-attachments/assets/92577378-983d-4658-8d27-4603e03487c8)
-![image](https://github.com/user-attachments/assets/c0c71105-218a-471d-a2b8-b8003c2e951b)
+  ![image](https://github.com/user-attachments/assets/160855a6-0595-4acf-9579-8a98d74fc7e6)
 
+![image](https://github.com/user-attachments/assets/fd0302a3-7299-47e4-a315-88ab1f200af5)
+
+![image](https://github.com/user-attachments/assets/2eeb8205-d044-46e4-b0da-3322ce000655)
 
 
 ---
